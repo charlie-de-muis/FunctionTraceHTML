@@ -7,7 +7,11 @@ Blue = file name and line number
 The is a division line between different button clicks, and the call order is indented.
 
 
-To use it: call the enable_tracing() function at the start of the program, 
+To use it: 
+
+First install the package: pip install FunctionTraceHTML
+
+call the enable_tracing() function at the start of the program, 
 and the disable_tracing() at the end of the program.
 
 Example:
