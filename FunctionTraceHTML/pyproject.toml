@@ -1,10 +1,10 @@
 [project]
 name = "FunctionTraceHTML"
-version = "1.0"
+version = "1.1"
 authors = [
-  { name="charlie-de-muis"},
+  { name="charlie-de-muis" },
 ]
-description = "Traces which functions are called and transforms it to a color coded HTML file"
+description = "Trace Python functions into a color coded HTML log file."
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
@@ -15,4 +15,4 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
+Homepage = "https://github.com/charlie-de-muis/FunctionTraceHTML"

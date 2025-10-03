@@ -1,3 +1,17 @@
+Metadata-Version: 2.4
+Name: FunctionTraceHTML
+Version: 1.1
+Summary: Trace Python functions into a color coded HTML log file.
+Author: charlie-de-muis
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/charlie-de-muis/FunctionTraceHTML
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 I had to refactor a big file, and needed to know which functions are called and in which order when i click a button in the UI.
 I used this in a python file, with a UI from Qt Creator. The output is a HTML file with color codes.
 
