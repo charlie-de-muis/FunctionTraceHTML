@@ -11,6 +11,8 @@ To use it: call the enable_tracing() function at the start of the program,
 and the disable_tracing() at the end of the program.
 
 Example:
+
+
     import FunctionTraceHTML
     FunctionTraceHTML.set_project_path(os.path.dirname(os.path.abspath(__file__)))
 
