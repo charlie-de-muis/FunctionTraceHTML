@@ -33,6 +33,5 @@ Example:
     FunctionTrace.disable_tracing()
 
 
-This package was made by me, (charlie-de-muis on GitHub) with the help of ChatGPT.
-It isn't broadly tested, but seems to work perfectly fine. 
+This package was made by me. It isn't broadly tested, but seems to work perfectly fine. 
 I'm not responsible if anything goes wrong, use at your own risk :)
